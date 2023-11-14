@@ -10,3 +10,25 @@ p{  color: whitesmoke;
 .imagem{
     text-align: center;
 }
+.itens {
+    font-style: italic;
+    font-size: 30 px;
+}
+
+.beneficios {
+    background: gray;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 35%;
+}
